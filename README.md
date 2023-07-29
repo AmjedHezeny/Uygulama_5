@@ -21,7 +21,7 @@ Sabitler:
 
 Math.PI: Pi (π) sabiti, yaklaşık değeri 3.14159'dur.
 Math.E: Euler sayısı (e) sabiti, yaklaşık değeri 2.71828'dir.
-Bu matematiksel metotları ve sabitleri C# programlarınızda matematiksel hesaplamalar ve trigonometrik işlemler yapmak için kullanabilirsiniz.
+
 
 
 
