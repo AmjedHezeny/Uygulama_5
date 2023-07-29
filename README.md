@@ -1,8 +1,8 @@
 # 🧮 Süper Hesap Makinesi 🚀
 
-# Matematiksel Metotlar Eklanmış:
+* Matematiksel Metotlar Eklanmış:
 
-# Math.Pow(x, y): İki parametreyi kabul ederek ilk parametreyi taban, ikinci parametreyi üst olarak kabul eder ve üs alma işlemini gerçekleştirir.
+* Math.Pow(x, y): İki parametreyi kabul ederek ilk parametreyi taban, ikinci parametreyi üst olarak kabul eder ve üs alma işlemini gerçekleştirir.
 # Math.Sqrt(x): Verilen parametrenin karekökünü hesaplar.
 # Math.Abs(x): Mutlak değer alma işlemini gerçekleştirir. Yani, verilen değerin pozitif karşılığını döndürür.
 # Math.Floor(x): Verilen ondalıklı sayıyı bir altındaki tamsayı değere yuvarlar.
